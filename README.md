@@ -1,17 +1,60 @@
-<h1 align="center">Hi 👋, I'm Radosław Drewa</h1>
-<h3 align="center">A passionate mobile developer from Poland</h3>
 
-- 💬 Ask me about **Fluttere, Android**
+# 💫 About Me:
+>Hi 👋, I'm **Radosław Drewa**<br><br>- 💬 Ask me about **Flutter**, **Android**<br>- 📫 How to reach me **radoslaw.drewa@gmail.com**<br><br>
 
-- 📫 How to reach me **radoslaw.drewa@gmail.com**
+# 💻 Tech Stack:
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+ 
+![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://realm.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/8665e8c267a0215f3159df28b33c365198101df5/public/logos/realm.svg" alt="realm" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/radoslaw.drewa)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rdrewa&show_icons=true&locale=en&layout=compact" alt="rdrewa" /></p>
+## Public Flutter demo projects 
+| Project                          | [MoviesApp](https://github.com/rdrewa/MoviesApp)                                                                                            | [Rick&MortyApp](https://github.com/rdrewa/RickAndMortyApp)                                                                                                                                                   | 
+|----------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **State Management**             | [flutter_bloc](https://pub.dev/packages/flutter_bloc)                                                                                       | [riverpod](https://pub.dev/packages/riverpod), [hooks_riverpod](https://pub.dev/packages/hooks_riverpod), [hooks_riverpod](https://pub.dev/packages/hooks_riverpod) | 
+| **Dependencies**                 | [get_it](https://pub.dev/packages/get_it)                                                                                                   | [riverpod_generator](https://pub.dev/packages/riverpod_generator) (generated providers)]                                                                            | 
+| **Network**                      | [retrofit](https://pub.dev/packages/retrofit), [dio](https://pub.dev/packages/dio)                                                          | [graphql_flutter](https://pub.dev/packages/graphql_flutter)                                                                                                         | 
+| **Navigation**                   | [go_router](https://pub.dev/packages/go_router)                                                                                             | [auto_route](https://pub.dev/packages/auto_route) (drawer)                                                                                                          | 
+| **Environment variables**        | [flutter_dotenv](https://pub.dev/packages/flutter_dotenv) (loaded)                                                                          | [envied](https://pub.dev/packages/envied) (generated)                                                                                                               | 
+| **Error handling**               | [dartz](https://pub.dev/packages/dartz), [FP](https://medium.com/nerd-for-tech/better-error-handling-with-either-type-in-dart-b91bef20d716) | [dartz](https://pub.dev/packages/dartz), [FP](https://medium.com/nerd-for-tech/better-error-handling-with-either-type-in-dart-b91bef20d716)                         | 
+| **Serialization**                | [json_serialization](https://pub.dev/packages/json_serialization)                                                                           | [json_serialization](https://pub.dev/packages/json_serialization)                                                                                                   | 
+| **Persistence**                  | [hive](https://pub.dev/packages/hive), [hive_flutter](https://pub.dev/packages/hive_flutter)                                                | [drift](https://pub.dev/packages/drift)                                                                                                                             | 
+| **Unions/pattern-matching etc.** | [freezed](https://pub.dev/packages/freezed)                                                                                                 | [freezed](https://pub.dev/packages/freezed)                                                                                                                         | 
+| **Comparing**                    | [equatable](https://pub.dev/packages/equatable)                                                                                             | [equatable](https://pub.dev/packages/equatable)                                                                                                                     | 
+| **Localization**                 | [easy_localization](https://pub.dev/packages/easy_localization)                                                                             | [easy_localization](https://pub.dev/packages/easy_localization) (**user** choice)                                                                                   | 
+| **Mocking**                      | [mocktail](https://pub.dev/packages/mocktail)                                                                                               | [mockito](https://pub.dev/packages/mockito)                                                                                                                         | 
+| **Testing**                      | [flutter_test](https://api.flutter.dev/flutter/flutter_test/flutter_test-library.html), [bloc_test](https://pub.dev/packages/bloc_test)     | [flutter_test](https://api.flutter.dev/flutter/flutter_test/flutter_test-library.html)                                                                              | 
+| **File generator**               | [build_runner](https://pub.dev/packages/build_runner)                                                                                       | [build_runner](https://pub.dev/packages/build_runner)                                                                                                               | 
+| **Image caching**                | [cached_network_image](https://pub.dev/packages/cached_network_image)                                                                       | [cached_network_image](https://pub.dev/packages/cached_network_image)                                                                                               | 
+| **Fonts**                        | [google_fonts](https://pub.dev/packages/google_fonts)                                                                                       | [google_fonts](https://pub.dev/packages/google_fonts)                                                                                                               | 
+| **Theme**                        | light & dark (**system** choice)                                                                                                            | light & dark (**user** choice)                                                                                                                                      | 
+| **Color Scheme**                 | Randomly generated by [Material Theme Builder](https://m3.material.io/theme-builder#/custom)                                                | Randomly generated by [Material Theme Builder](https://m3.material.io/theme-builder#/custom)                                                                        | 
+|                                  |                                                                                                                                             | PinnedHeader: [sliver_tools](https://pub.dev/packages/sliver_toolss), Settings: [settings_ui](https://pub.dev/packages/settings_ui)  |
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rdrewa&show_icons=true&locale=en" alt="rdrewa" /></p>
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=rdrewa&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=rdrewa&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rdrewa&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+
+---
+[![](https://visitcount.itsvg.in/api?id=rdrewa&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
